@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "116892150270",
+    "firebase_url": "https://quote-9df09.firebaseio.com",
+    "project_id": "quote-9df09",
+    "storage_bucket": "quote-9df09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116892150270:android:0f3b2a6822fa78d851f8af",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116892150270-391t3aftuglkk18u5mv1t8o63theje92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVbdtbK9Huotbo3hFjBYqHDRxgynCgAKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116892150270-391t3aftuglkk18u5mv1t8o63theje92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116892150270:android:48eeeca5f49b092451f8af",
+        "android_client_info": {
+          "package_name": "com.example.quotingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116892150270-391t3aftuglkk18u5mv1t8o63theje92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVbdtbK9Huotbo3hFjBYqHDRxgynCgAKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116892150270-391t3aftuglkk18u5mv1t8o63theje92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116892150270:android:f64725face5fc73851f8af",
+        "android_client_info": {
+          "package_name": "com.kavara.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116892150270-391t3aftuglkk18u5mv1t8o63theje92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVbdtbK9Huotbo3hFjBYqHDRxgynCgAKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116892150270-391t3aftuglkk18u5mv1t8o63theje92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

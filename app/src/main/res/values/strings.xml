@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Quoting Mantra</string>
+    <string name="Logo_line">Find The best Quotes and shaayri here</string>
+    <string name="Welcome">Welocme To the Quoting App</string>
+    <string name="Add">Add Quotes </string>
+    <string name="Quotes">Categories</string>
+    <string name="Privacy">Privacy Policy</string>
+    <string name="Share">Share</string>
+    <string name="Rate">Rate App</string>
+    <string name="Logo_Name">Quoting Mantra</string>
+    <string name="Addtag">Add Quote:-</string>
+    <string name="submit">Submit</string>
+    <string name="enter">Enter text</string>
+    <string name="Alone">Alone</string>
+    <string name="Anger">Anger</string>
+    <string name="Anniversary">Anniversary</string>
+    <string name="Attitude">Attitude</string>
+    <string name="Beauty">Beauty</string>
+    <string name="Birthday">Birthday</string>
+    <string name="Failure">Failure</string>
+    <string name="Famous">Famous</string>
+    <string name="Friendship">Friendship</string>
+    <string name="Funny">Funny</string>
+    <string name="God">God</string>
+    <string name="Happiness">Happiness</string>
+    <string name="Jealousy">Jealousy</string>
+    <string name="Love">Love</string>
+    <string name="Marriage">Marriage</string>
+    <string name="Memorial_Day">Memorial Day</string>
+    <string name="Motivational">Motivational </string>
+    <string name="New_Year">New Year</string>
+    <string name="poetry">Poetry</string>
+    <string name="q1">Quote 1</string>
+    <string name="q2">Quote 2</string>
+    <string name="q3">Quote 3</string>
+    <string name="q4">Quote 4</string>
+    <string name="q5">Quote 5</string>
+    <string name="q6">Quote 6</string>
+    <string name="q7">Quote 7</string>
+    <string name="q8">Quote 8</string>
+    <string name="q9">Quote 9</string>
+    <string name="q10">Quote 10</string>
+    <string name="q11">Quote 11</string>
+    <string name="q12">Quote 12</string>
+    <string name="q13">Quote 13</string>
+    <string name="q14">Quote 14</string>
+    <string name="q15">Quote 15</string>
+    <string name="q16">Quote 16</string>
+    <string name="Q">Quote:-</string>
+    <string name="banner_ads_id">ca-app-pub-8024531215248997/8570578480</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="interstitial_add_id">ca-app-pub-8024531215248997/3553877912</string>
+</resources>
